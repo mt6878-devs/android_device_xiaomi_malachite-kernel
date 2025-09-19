@@ -209,3 +209,6 @@ mtk_tinysys_ipi.ko
 mtk-mmdvfs-v3-start.ko
 sec.ko
 simtray.ko
+ft3683g.ko
+gt9916r.ko
+xiaomi_touch_common.ko

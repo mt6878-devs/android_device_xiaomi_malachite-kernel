@@ -208,3 +208,6 @@ cpq.ko
 mi_async_reclaim.ko
 mi_rmap_efficiency.ko
 perf_helper.ko
+ft3683g.ko
+gt9916r.ko
+xiaomi_touch_common.ko

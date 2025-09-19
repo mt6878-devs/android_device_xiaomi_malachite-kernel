@@ -1,8 +1,5 @@
 haptic.ko
 si_haptic.ko
-xiaomi_touch_common.ko
-gt9916r.ko
-ft3683g.ko
 cfg80211.ko
 mac80211.ko
 reboot-mode.ko
