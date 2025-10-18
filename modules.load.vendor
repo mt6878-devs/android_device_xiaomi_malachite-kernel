@@ -208,3 +208,7 @@ xiaomi_spi_tee.ko
 xiaomi_wifi_gpio.ko
 sla.ko
 binder_prio.ko
+lb.ko
+mi_sw_sync.ko
+migt.ko
+perf_helper.ko

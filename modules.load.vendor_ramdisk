@@ -204,3 +204,7 @@ usb_logger.ko
 dbg_error_flag.ko
 bus-parity.ko
 last_bus.ko
+cpq.ko
+mi_async_reclaim.ko
+mi_rmap_efficiency.ko
+perf_helper.ko
