@@ -2,8 +2,6 @@ haptic.ko
 si_haptic.ko
 cfg80211.ko
 mac80211.ko
-reboot-mode.ko
-syscon-reboot-mode.ko
 spmi-mtk-mpu.ko
 fhctl.ko
 clk-dbg-mt6878.ko

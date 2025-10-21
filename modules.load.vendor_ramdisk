@@ -211,3 +211,5 @@ perf_helper.ko
 ft3683g.ko
 gt9916r.ko
 xiaomi_touch_common.ko
+reboot-mode.ko
+syscon-reboot-mode.ko
