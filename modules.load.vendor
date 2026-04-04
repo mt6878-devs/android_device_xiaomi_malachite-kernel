@@ -202,7 +202,6 @@ simtray.ko
 cpumaxfreq.ko
 xiaomi_spi_tee.ko
 xiaomi_wifi_gpio.ko
-binder_prio.ko
 lb.ko
 mi_sw_sync.ko
 migt.ko
