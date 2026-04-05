@@ -1,4 +1,3 @@
-bootprof.ko
 mrdump.ko
 aee_aed.ko
 aee_hangdet.ko
@@ -204,10 +203,6 @@ usb_logger.ko
 dbg_error_flag.ko
 bus-parity.ko
 last_bus.ko
-cpq.ko
-mi_async_reclaim.ko
-mi_rmap_efficiency.ko
-perf_helper.ko
 ft3683g.ko
 gt9916r.ko
 xiaomi_touch_common.ko

@@ -102,9 +102,6 @@ mtk_cm_ipi.ko
 mtk_cm_mgr.ko
 mtk_cm_mgr_mt6878.ko
 mtk_perf_ioctl.ko
-mtk_fpsgo.ko
-fpsgo.ko
-frs.ko
 mtk-cam-isp7sp.ko
 imgsensor-glue.ko
 imgsensor.ko
@@ -196,13 +193,7 @@ mtk_c2ps.ko
 tms_device_modules.ko
 nxp_i2c.ko
 p73.ko
-mtk_mbraink.ko
 c2ps_perf_ioctl.ko
 simtray.ko
-cpumaxfreq.ko
 xiaomi_spi_tee.ko
 xiaomi_wifi_gpio.ko
-lb.ko
-mi_sw_sync.ko
-migt.ko
-perf_helper.ko
