@@ -196,4 +196,3 @@ p73.ko
 c2ps_perf_ioctl.ko
 simtray.ko
 xiaomi_spi_tee.ko
-xiaomi_wifi_gpio.ko

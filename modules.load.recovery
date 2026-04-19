@@ -7,7 +7,6 @@ irq-dbg.ko
 cache-parity.ko
 zsmalloc.ko
 zram.ko
-mi_memory.ko
 mtk_sync.ko
 mtk_disp_notify.ko
 mtk_printk_ctrl.ko
